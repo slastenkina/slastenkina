@@ -14,10 +14,10 @@
 - ⚙️ **Инструменты:** Git, Bash, Webpack, Figma, Photoshop.  
 
 ▸ **Мои учебные проекты:**  
-- ✦ **"Закрывающий тег":** Одностраничный сайт с адаптивной версткой (HTML, CSS).  
+- ✦ **"Закрывающий тег":** Одностраничный сайт с адаптивной версткой (HTML, CSS).  https://github.com/slastenkina/zakrivayuschiy-teg-f
 - ✦ **Проект "Место":** Одностраничное приложение (JS).  https://github.com/slastenkina/mesto-project-ff
-- ✦ **"Web-ларёк":** Пример использования TypeScript и Webpack.  
-- ✦ **"Steller-burgers:"** Приложение на React.
+- ✦ **"Web-ларёк":** Пример использования TypeScript и Webpack.  https://github.com/slastenkina/web-larek-frontend
+- ✦ **"Steller-burgers:"** Приложение на React. https://github.com/slastenkina/stellar-burgers
 
 
 ▸ **Как связаться со мной:**  
